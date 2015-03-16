@@ -1,0 +1,14 @@
+{
+  "name": "NewNodeProject",
+  "version": "0.1.0",
+  "description": "My First Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodeproject"
+  ],
+  "author": "abi",
+  "license": "ISC"
+}
