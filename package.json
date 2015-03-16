@@ -10,5 +10,8 @@
     "nodeproject"
   ],
   "author": "abi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
 }
